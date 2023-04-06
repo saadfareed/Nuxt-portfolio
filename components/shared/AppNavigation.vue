@@ -54,11 +54,11 @@ export default {
         border-primary-light
         dark:border-secondary-dark
       "
-      aria-label="About Me"
-      >Mentorship</NuxtLink
+      aria-label="Mentorship Program"
+      >Mentorship Program</NuxtLink
     >
     <NuxtLink
-      to="/contribution"
+      to="/blogs"
       class="
         block
         text-left text-lg text-primary-dark
@@ -74,8 +74,8 @@ export default {
         border-primary-light
         dark:border-secondary-dark
       "
-      aria-label="About Me"
-      >Contribution</NuxtLink
+      aria-label="Blogs"
+      >Blogs</NuxtLink
     >
     <NuxtLink
       to="/about"
