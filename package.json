@@ -20,5 +20,14 @@
     "@nuxtjs/tailwindcss": "^4.2.0",
     "postcss": "^8.3.5",
     "vue-backtotop": "^1.6.1"
-  }
+  },
+  "scripts": {
+  "dev": "nuxt",
+  "generate": "nuxt generate",
+  "start": "nuxt start",
+  "deploy": "push-dir --dir=dist --branch=master --cleanup"
+},
+
+
+  
 }
