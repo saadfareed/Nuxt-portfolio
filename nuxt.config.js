@@ -4,6 +4,9 @@ export default {
   colorMode: {
     classSuffix: "",
   },
+  router: {
+    base: '/Nuxt-portfolio/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
