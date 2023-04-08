@@ -25,7 +25,7 @@ export default {
     >
       &copy; {{ copyrightDate }}.
       <a
-        href="https://www.linkedin.com/in/saad-fareed/"
+        href="https://github.com/saadfareed/Nuxt-portfolio"
         target="__blank"
         class="
           font-general-medium

@@ -54,7 +54,7 @@ export default {
           >1000+</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
-          >Stars on GitHub</span
+          >GitHub Contributions</span
         >
       </div>
 
@@ -87,7 +87,7 @@ export default {
             dark:text-secondary-light
             mb-2
           "
-          >73</span
+          >29</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
           >Projects completed</span
